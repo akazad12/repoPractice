@@ -24,3 +24,6 @@
 1. Swith to branch you want to merge into (usually main branch)
 2. 'git merge <name of branch to merge>' -combines secondayr branch into main
 
+# Git Clone:
+1. In terminal, navigate to folder you want to clone code 
+2. Run command, 'git clone' <https url from github here> opt_new_name_for_folder
