@@ -18,7 +18,7 @@
 3. 'git checkout <name of branch>',  - to swith to different branch
   - when in alternative branch all chanbes are saved commited only to that branch
 
-  *** DO NOT MAKE CHANGES TO BOTH BRANCHES**
+  *** DO NOT MAKE CHANGES TO BOTH BRANCHES***
 ## Git Merging
 - Merging is the process of comining a secondary branch with the main/master branch
 1. Swith to branch you want to merge into (usually main branch)
