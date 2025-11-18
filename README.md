@@ -13,4 +13,14 @@
 *** If you use '-u' upstream flag, all subsequent/further commit you use 'git push' instead of 'git push origin main'
 
 # Branching your repo:
+1. 'git branch <name of new branch>' - create a enw branch
+2. 'git checkout' to see what branch we are on
+3. 'git checkout <name of branch>',  - to swith to different branch
+  - when in alternative branch all chanbes are saved commited only to that branch
+
+  *** DO NOT MAKE CHANGES TO BOTH BRANCHES**
+## Git Merging
+- Merging is the process of comining a secondary branch with the main/master branch
+1. Swith to branch you want to merge into (usually main branch)
+2. 'git merge <name of branch to merge>' -combines secondayr branch into main
 
