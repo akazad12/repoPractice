@@ -13,7 +13,7 @@
 *** If you use '-u' upstream flag, all subsequent/further commit you use 'git push' instead of 'git push origin main'
 
 # Branching your repo:
-1. 'git branch <name of new branch>' - create a enw branch
+1. 'git branch <name of new branch>' - create a new branch
 2. 'git checkout' to see what branch we are on
 3. 'git checkout <name of branch>',  - to swith to different branch
   - when in alternative branch all chanbes are saved commited only to that branch
