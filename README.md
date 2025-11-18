@@ -12,3 +12,5 @@
 
 *** If you use '-u' upstream flag, all subsequent/further commit you use 'git push' instead of 'git push origin main'
 
+# Branching your repo:
+
